@@ -1,1 +1,1 @@
-![image][images/Task_1_2.PNG]
+![image](images/Task_1_2.PNG)
