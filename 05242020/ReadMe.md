@@ -1,1 +1,8 @@
-
+![image](images/Task_1_1.1.PNG)
+![image](images/Task_1_1.2.PNG)
+![image](images/Task_1_2.PNG)
+![image](images/Task_1_3.PNG)
+![image](images/Task_2_1.1.PNG)
+![image](images/Task_2_1.2.PNG)
+![image](images/Task_2_2.1.PNG)
+![image](images/Task_2_2.2.PNG)
